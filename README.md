@@ -1,1 +1,1 @@
-CV: [PDF](./StephanKostovCV.pdf
+CV: [PDF](./StephanKostovCV.pdf)
