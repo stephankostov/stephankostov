@@ -2,7 +2,7 @@ Hi, I'm a sofware engineer building skills in Data Science in my free time.
 
 # Data Science Projects & Skills
 
-## Recipe Generator [Repo](https://github.com/stephankostov/recipe-generator)
+## Recipe Generator [[Link]](https://github.com/stephankostov/recipe-generator)
 
 A project to have fun and practice data wrangling and training models.
 
@@ -10,7 +10,7 @@ A project to have fun and practice data wrangling and training models.
 - Model Architecture Design
 - Model Training
 
-## Podcast Transcriber [Repo](https://github.com/stephankostov/podcast-transcriber) 
+## Podcast Transcriber [[Link]](https://github.com/stephankostov/podcast-transcriber) 
 
 A practical project to help notetaking.
 
@@ -18,14 +18,14 @@ A practical project to help notetaking.
 - NLP
 - LLM Prompt Engineering
 
-## Data Analytics MSc Dissertation [Repo](https://github.com/stephankostov/msc-data-analysis-thesis)
+## Data Analytics MSc Dissertation [[Link]](https://github.com/stephankostov/msc-data-analysis-thesis)
 
 My first real taste of working with data.
 
 - Data Analysis
 - Data Visualisation
 
-## Stable Diffusion Fine Tuning
+## Generative Image Fine Tuning
 
 Project to practice my skills learned after completing a course on creating and training diffusion models [FastAI: Practical AI for Deep Learning (Part 2)](https://course.fast.ai/Lessons/lesson9.html). Here I fine-tuned Stable Diffusion for help generating character artwork for my friends' Dungeons and Dragons campaigns.
 
