@@ -1,4 +1,4 @@
-Hi, I'm an sofware engineer building skills in Data Science in my free time.
+Hi, I'm a sofware engineer building skills in Data Science in my free time.
 
 # Data Science Projects & Skills
 
