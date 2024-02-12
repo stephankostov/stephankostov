@@ -27,4 +27,4 @@ My first real taste of working with data.
 
 # CV
 
-[PDF](./StephanKostovCV.pdf)
+[PDF](./stephan-kostov-cv.pdf)
