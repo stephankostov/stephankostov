@@ -10,7 +10,7 @@ A project to have fun and practice data wrangling and training models.
 - Model Architecture Design
 - Model Training
 
-## [podcast-transcriber](https://github.com/stephankostov/podcast-transcriber) 
+## [Podcast Transcriber](https://github.com/stephankostov/podcast-transcriber) 
 
 A practical project to help notetaking.
 
