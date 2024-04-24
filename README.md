@@ -1,6 +1,6 @@
 Hi, I'm a sofware engineer aspiring to get into the world of data.
 
-# Data Science Projects & Skills
+# ML Projects
 
 ## Recipe Generator [[Link]](https://github.com/stephankostov/recipe-generator)
 
