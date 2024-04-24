@@ -36,11 +36,11 @@ Project to practice my skills learned after completing a course on creating and 
 
 # Reading List
 
-- [https://www.oreilly.com/library/view/deep-learning-for/9781492045519/](Deep Learning for Coders with fastai and PyTorch by Jeremy Howard and Sylvain Gugger)
-- [https://course.fast.ai/Lessons/part2.html](Course: Deep Learning Foundations to Stable Diffusion by Jeremy Howard)
-- [https://wesmckinney.com/book/](Python for Data Analysis by Wes McKinney)
-- [https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/](Designing Machine Learning Systems by Chip Huyen)
-- [https://mml-book.github.io/](Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong)
+- [Deep Learning for Coders with fastai and PyTorch by Jeremy Howard and Sylvain Gugger](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
+- [Course: Deep Learning Foundations to Stable Diffusion by Jeremy Howard](https://course.fast.ai/Lessons/part2.html)
+- [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/)
+- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 
 # CV
 
