@@ -25,7 +25,7 @@ My first real taste of working with data.
 - Data Analysis
 - Data Visualisation
 
-## Generative Image Fine Tuning
+## Image Generation Model Fine-Tuning
 
 Project to practice my skills learned after completing a course on creating and training diffusion models [FastAI: Practical AI for Deep Learning (Part 2)](https://course.fast.ai/Lessons/lesson9.html). Here I fine-tuned Stable Diffusion for help generating character artwork for my friends' Dungeons and Dragons campaigns.
 
