@@ -6,7 +6,7 @@ Hi, I'm a sofware engineer building skills in Data Science in my free time.
 
 A project to have fun and practice data wrangling and training models.
 
-- Data Wrangling
+- Data Engineering
 - Model Architecture Design
 - Model Training
 
