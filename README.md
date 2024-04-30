@@ -1,5 +1,7 @@
 Hi, I'm a sofware engineer aspiring to get into the world of data.
 
+[![Watch the video](./video-cv-thumbnail.png)](https://www.youtube.com/watch?v=W3ABHsrQshE)
+
 # ML Projects
 
 ## Recipe Generator [[Link]](https://github.com/stephankostov/recipe-generator)
