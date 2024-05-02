@@ -1,4 +1,4 @@
-Hi, I'm a sofware engineer aspiring to get into the world of data.
+Hi, I'm a sofware engineer building my foundation of skills and knowledge in Machine Learning.
 
 [![Watch the video](./video-cv-thumbnail.png)](https://www.youtube.com/watch?v=W3ABHsrQshE)
 
