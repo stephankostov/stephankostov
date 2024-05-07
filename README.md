@@ -38,11 +38,11 @@ Project to practice my skills learned after completing a course on creating and 
 
 # Reading List
 
-- [Deep Learning for Coders with fastai and PyTorch by Jeremy Howard and Sylvain Gugger](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/): My introduction to in-depth training of Machine Learning models of (at the time) state of the art architectures through the creation of a generalised Python training library, designed by a master ML tinkerer Jeremy Howard.
-- [Course: Deep Learning Foundations to Stable Diffusion by Jeremy Howard](https://course.fast.ai/Lessons/part2.html): A ground-up approach to getting to know Machine Learning at its core. Done through gradually building up to PyTorch modules starting from nothing but the Python standard library, and adding them only once they had been implemented with the foundations prior. Ultimately this was done to then implement and train a Stable Diffusion model.
-- [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/): An in-depth explanation of the core of data aggregation, and visualisation in Pandas by the founder of Pandas himself.
-- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): A modern overview and best-practices of all parts of Machine Learning systems from Data Engineering to Model selection, training, and deployment.
-- [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/): A refresher of the maths behind ML in order to better follow most recent research.
+- [Deep Learning for Coders with fastai and PyTorch by Jeremy Howard and Sylvain Gugger (2020)](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/): My introduction to building and training state of the art (at the time) Machine Learning models of  architectures through the creation of a generalised Python training library, designed by a master ML tinkerer Jeremy Howard.
+- [Course: Deep Learning Foundations to Stable Diffusion by Jeremy Howard (2023)](https://course.fast.ai/Lessons/part2.html): A ground-up approach to getting to know Machine Learning at its core. Done through gradually building up to PyTorch modules starting from nothing but the Python standard library, and adding them only once they had been implemented with the foundations prior. Ultimately this was done to then implement and train a Stable Diffusion model.
+- [Python for Data Analysis by Wes McKinney (2011)](https://wesmckinney.com/book/): An in-depth explanation of the core of data aggregation, and visualisation in Pandas by the founder of Pandas himself.
+- [Designing Machine Learning Systems by Chip Huyen (2022)](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): A modern overview of building Machine Learning systems from Data Engineering to Model selection, training, and deployment.
+- [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong (2012)](https://mml-book.github.io/): A refresher of the maths behind ML in order to better follow most recent research.
 
 # CV
 
