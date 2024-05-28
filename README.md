@@ -1,1 +1,1 @@
-UPDATE: Please see my portfolio webpage for an outlined overview of my projects: https://stephankostov.me/
+UPDATE: Please see my portfolio webpage for an outlined of my projects: https://stephankostov.me/
